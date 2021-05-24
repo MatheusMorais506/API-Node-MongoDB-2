@@ -1,5 +1,4 @@
-# API com Nodejs, MongoDb/Mongoose, com encriptografia, autenticação token e 
-  simulação de recuperação com mailtrap
+# API com Nodejs, MongoDb/Mongoose, com encriptografia, autenticação token e simulação de recuperação com mailtrap
 
 
 Criar APi e conexão com o mongoDb 
